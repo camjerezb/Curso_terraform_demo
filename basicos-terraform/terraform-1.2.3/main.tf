@@ -117,5 +117,5 @@ resource "aws_nat_gateway" "nat_gateway" {
 }
 
 resource "random_string" "random" {
-length = 16
+largo = 16
 }
